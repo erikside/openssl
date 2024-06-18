@@ -1,0 +1,4 @@
+{
+  "DockerRun.DisableDockerrc": true,
+  "vscode-corda.isCordaProject": false
+}
